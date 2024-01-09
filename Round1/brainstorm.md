@@ -10,8 +10,8 @@
 9. Forklift
 
 ## Top 3
-1. Tank Treads (coolness factor)
-2. Plow/Fork
-3. Sweeping Arm with simple claw
+1. Tank Treads (coolness factor), wheels if to slow
+2. Plow/Fork to push dinosaurs
+3. Sweeping Arm knocking off dinosaurs with simple claw to pick up doll
 
 ## Paragraph
