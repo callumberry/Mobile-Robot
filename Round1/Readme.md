@@ -19,10 +19,3 @@
 1. 
 2. 
 3. 
-
-# Health and Safety Consideration
-
-
-# Risk Management
-
-# Design on Paper
