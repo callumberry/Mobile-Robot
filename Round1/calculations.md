@@ -30,6 +30,6 @@ $$ F = 1.962 N $$
 
 ### Torque Calculation at 15 cm
 $$ \tau = rF\sin\theta  $$
-$$ \tau = 0.15*1.962*\sin(90 degrees change to pi/2)    $$
-$$ \tau = 0.15*1.962*\sin(90 degrees change to pi/2)    $$
+$$ \tau = 0.15*1.962*\sin(\pi/2)    $$
+$$ \tau = 0.15*1.962*\sin(\pi/2)    $$
 $$ \tau = 0.2943 Nm  $$
