@@ -18,6 +18,8 @@ We are happy with our ideas
 
 # Exploring Tank Treads
 
+Within the 3d printing community there are many prior arts to tank tread design for small scale robotics. The design of the treads is usually in TPU or made of many linkages of a harder plastic. A shortcoming of the harder plastics is that you must assemble the treads one linkage at a time. Using TPU in our design means we can print the treads in one solid piece, create our own tread pattern to increase friction on the game board.
+
 ![Screenshot](203Robot.jpg)
 
 # Back of Envelope Calculations: Shoulder Rotation
