@@ -1,10 +1,24 @@
 ## Top 3
 1. Pulleyed Wrist and flexible claws (made from TPU) that extend outwards
-2. Tank Tread
+2. Tank Treads
 3. Vertical rotation in arm to guide arm towards dinosaurs placed on rocks
 
+## Design on Paper
 
+We are happy with our ideas
+- Instrinct:
 
+- Analytical:
+
+| Idea | Risk|
+| :---------------- |  :----: |
+| Pulleyed Wrist and flexible claws (made from TPU) | High, may needs lots of prototyping |
+|Tank Treads | Low, simple design should involve little prototyping |
+| Vertical rotation in arm to guide arm towards dinosaurs placed on rocks | Medium, needs protypin but less then pulleyed writs |
+
+# Exploring Tank Treads
+
+![Screenshot](203Robot.jpg)
 
 # Back of Envelope Calculations: Shoulder Rotation
 
@@ -13,7 +27,6 @@
 | :---------------- |  :----: |
 | Weight of Arm |   Negligible |
 | Wight of Gripper | 30 g |
-| Length of Arm | 15 cm |
 | Theta | $\pi \over 2$ degrees|
 | Gravity | 9.81 $m\over s^2$|
 | Weight of Dinasuar |   0.1 kg (double check)  |
@@ -21,15 +34,18 @@
 
 | Constant | Value|
 | :---------------- |  :----: |
-| Torque Provided from motor |   0.40 Nm  |
+| Torque Provided from motor |   0.402 Nm  |
 
 ### Force Calculation
 $$ F = mg = 0.205*9.81$$
 $$ F = 1.962 N $$
 
+![Screenshot](calculationDiagram.png)
 
 ### Torque Calculation at 15 cm
-$$ \tau = rF\sin\theta  $$
-$$ \tau = 0.15*1.962*\sin(\pi/2)    $$
-$$ \tau = 0.15*1.962*\sin(\pi/2)    $$
-$$ \tau = 0.2943 Nm  $$
+$$ \tau = rF  $$
+$$  \frac{\tau}{F}   = r    $$
+$$ r =  \frac{0.4 Nm}{1.962N}  $$
+$$ r = 0.2028m = 20.38cm $$
+
+This calcualtion shows that the max length of the linkage to pick up a the ken doll, which is heavier then the dinasars, is 20.38cm.
