@@ -35,3 +35,12 @@
 During the cardboard design workshop, we created a model of our entire design. We highlighted the joints we would use for the arm using pins. This allowed us to see the mobility that the arm would likely have. Also, we designed the wheels and frame of our design as well, giving us a better picture for how the sizing and shape of the robot would look like. We chose to use tank treads to ensure the wheels would operate synchronously and made the robot have a square to allow for easy mobility. 
 
 ![Screenshot](Cardboard_Design.jpg)
+
+### What did you set out to do?
+To maken a minimum viable protype using cardboard, allowing us to gain a rough undertsanding of the size, shape, dimensions and mechanisms used for our robot. The protype will allow us to start 3D modelling in CAD with a point of reference. 
+
+### What did you learn from your prototype?
+We learned the scale of our robot and its size relative to the board. We also gained an understanding of the gernal layout of all the components and how the design will look like. 
+
+### What changes do you propose based on these insights?
+From our cardboard protype, we learned that it may be better to scale down the size of the robot. The square will allow for better mobility when driving in manual mode but as of right now, the clearance of the robot compared to doors is quite low. This would make it more difficult for the robot to exit the gate during autonomous mode. 
