@@ -33,3 +33,5 @@
 
 # Cardboard Design Documentation 
 During the cardboard design workshop, we created a model of our entire design. We highlighted the joints we would use for the arm using pins. This allowed us to see the mobility that the arm would likely have. Also, we designed the wheels and frame of our design as well, giving us a better picture for how the sizing and shape of the robot would look like. We chose to use tank treads to ensure the wheels would operate synchronously and made the robot have a square to allow for easy mobility. 
+
+![Screenshot](Cardboard Design.jpg)
