@@ -54,4 +54,4 @@ As of right now, we need to start integrating the controller with the DC motors,
 | 23                   | 95                     |         94            |           |         |
 | 24                   | 100                     |    98                 |           |         |
 
-![Screenshot](RiskMatrix.png)
+![Screenshot](ultrasonicFigure.png)
