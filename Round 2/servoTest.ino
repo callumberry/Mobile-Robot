@@ -3,7 +3,7 @@
 Servo servo; 
 
 
-const int SERVO_PIN = 15;  
+const int SERVO_PIN = 10;  
 
 int pos = 0; 
 
