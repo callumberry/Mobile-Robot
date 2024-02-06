@@ -23,7 +23,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 4. We are currently meeting all aspects of the plan
 
 # FRDPARC Table 
-
+![Screenshot](ultrasonicFigure.png)
 
 
 # Ultrasonic Sensor
