@@ -25,6 +25,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 # FRDPARC Table 
 
 
+
 # Ultrasonic Sensor
 
 | Data Point  |Actual distance (cm)  |       Measured distance (cm)         |  Slope        |  R^2    |       
