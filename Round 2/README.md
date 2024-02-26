@@ -23,7 +23,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 4. We are currently meeting all aspects of the plan
 
 # FRDPARC Table 
-![Screenshot](FRDPARC.png)
+![Screenshot](Images/FRDPARC.png)
 
 
 # Ultrasonic Sensor
@@ -55,7 +55,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 | 23                   | 95                     |         94            |           |         |
 | 24                   | 100                     |    98                 |           |         |
 
-![Screenshot](ultrasonicFigure.png)
+![Screenshot](Images/ultrasonicFigure.png)
 
 # 3D Printing
 https://www.thingiverse.com/thing:430305

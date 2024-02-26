@@ -18,8 +18,8 @@ As of right now, we need to start integrating the controller with the DC motors,
 
 ## Electrical Schematic *
 Electrical Schematic made using Cirkit Designer
-![Screenshot](Electrical_Schematic.png)
-![Screenshot](photo_elec_subsystem.jpg)
+![Screenshot](Images/Electrical_Schematic.png)
+![Screenshot](Images/photo_elec_subsystem.jpg)
 
 ## Power Budgeting *
 | Component | Voltage (V) | Current Draw (A) | Power (W) | Source |
@@ -57,13 +57,13 @@ modified from this design https://www.thingiverse.com/thing:430305
 # Workshop 6.2 Mechanical Module Assembly
 
 # Mechanical Module *
-![Screenshot](mechanical.jpg)
+![Screenshot](Images/mechanical.jpg)
 The mechanical module is the 
 
 # Workshop 7.1 Module Integration
 
 ## Integrated Module *
-![Screenshot](integration.jpg)
+![Screenshot](Images/integration.jpg)
 finish
 talk about
 
