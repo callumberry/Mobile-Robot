@@ -56,16 +56,15 @@ modified from this design https://www.thingiverse.com/thing:430305
 
 # Workshop 6.2 Mechanical Module Assembly
 
-# Mechanical Module *
+# Mechanical Module
 ![Screenshot](Images/mechanical.jpg)
-The mechanical module is the 
+The mechanical module is a modified wheel and tread system from a thingiverse model referenced above. The design improves the connection and modularity of the wheel design, this ensures the wheels are securly attached. The modularity is benefitial as if one piece breaks the entire wheel does not need to be reprinted. The inner core of the drive wheel has 3 embededd nuts 2 for attaching to the motor shaft and one for connected the core to the wheel. The idle wheel on the other hand has a core that a nylon sleeve can be press fit in to allow for smoother rotation and an embeeded nut to attach the core to the wheel. These were 3D printed with PETG which is supperior to PLA in strength. Another part of this module is a set of 2 TPU treads which will be attach to the drive wheel and idle wheel. TPU is flexible which allows the treads to be printed in one piece simplifing the design and reliability of print comapred to printing treads in PETG or PLA.
 
 # Workshop 7.1 Module Integration
 
-## Integrated Module *
+## Integrated Module
 ![Screenshot](Images/integration.jpg)
-finish
-talk about
+The core of the wheel is removable and is attached to the DC motor first, it is design with 2 embedded nuts on both sides to give a secured attachement to the D shaped DC motor shaft. Once the core is attached you can attach the wheel with a screw going into another embedded nut. The purpose of this integrated module is to be what controls the movement of the tread system for the robot. It functions well so far staying securely attached to the motor while spinning and once we have the chassis laser cut we can do futher testing on reliability of the tread system.
 
 ## Team Health Assessment and Peer Feedback *
 finish
