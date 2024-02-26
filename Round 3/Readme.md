@@ -16,7 +16,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 5. Material choice for arm/gripper - Callum and Mustafa
 6. Finalize button mapping - Callum and Mustafa
 
-## Electrical Schematic *
+## Electrical Schematic
 Electrical Schematic made using Cirkit Designer
 ![Screenshot](Images/Electrical_Schematic.png)
 ![Screenshot](Images/photo_elec_subsystem.jpg)
