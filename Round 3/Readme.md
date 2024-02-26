@@ -73,6 +73,7 @@ The core of the wheel is removable and is attached to the DC motor first, it is 
 
 ## Team Health Assessment and Peer Feedback
 
-### Work Plan Reflection *
+### Team Dynamics
+Our discussion focusing on the low scores for goal progression and healthy fact-driven, centered around the necessity for setting clear and measurable objectives to ensure completion of the project in the given time. We also touched on clear communication voice different opinions on how to move forward onto new tasks or to complete current ones. The teams will use the in class milestones has checkups as well as creating our own check-ins to monitor progess thoughout the rest of the project.
 
-### Module Integration Reflection *
+### Peer Feedback
