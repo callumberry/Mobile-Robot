@@ -21,7 +21,7 @@ Electrical Schematic made using Cirkit Designer
 ![Screenshot](Images/Electrical_Schematic.png)
 ![Screenshot](Images/photo_elec_subsystem.jpg)
 
-## Power Budgeting *
+## Power Budgeting
 | Component | Voltage (V) | Current Draw (A) | Power (W) | Source |
 |-----------|---------|--------------|-----------|--------|
 | DC Motor w/Encoder | 6 | 0.13 (3.2) | 0.78(19.2) | https://www.dfrobot.com/product-1617.html
@@ -34,12 +34,17 @@ Electrical Schematic made using Cirkit Designer
 | Pi Pico | 5 | 0.05 (0.15) | 0.25 (0.75) | https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf?_gl=1\*11bp2lj*_ga\*NzU5OTYyNDQzLjE3MDg5NjQ1NjM.\*_ga_22FD70LWDS*MTcwODk2NDU3MC4xLjAuMTcwODk2NDU3MC4wLjAuMA.. https://lastminuteengineers.com/getting-started-with-raspberry-pi-pico-w/#:~:text=On%20the%20board%2C%20there%20is,Pico%20W%20consumes%20about%2050mA.
 | Total || 0.4101 (7.0768) | 5.8315 (48.0375) |
 
-| Battery | Voltage (V) | Current (A) | Power (W)
-|------|--------|---------|-----|
-| Finish |  |  | |
+| Battery | Voltage (V) | Capacity (mAh) | Source
+|------|--------|---------|---
+| Nickel Metal Hydride Battery | 1.2V | 2500 | https://www.duracell.com/wp-content/uploads/2018/12/AA2500HP-PREMIUM-v1.0.pdf
 
+We have 4 batteries therefore they have a combined capacity fo 10 Ah.
 
-Therefore the battery will last __ to __ hours.
+Low End: $\frac{10}{0.4101}= 24.38 h $
+
+Peak: $\frac{10}{7.0768}= 1.41 h $
+
+Therefore the battery will last 1.41 to 24.38 hours.
 
 ## 3D printing tally
 ![Screenshot](3D/wheelPrint.png)
@@ -66,7 +71,8 @@ The mechanical module is a modified wheel and tread system from a thingiverse mo
 ![Screenshot](Images/integration.jpg)
 The core of the wheel is removable and is attached to the DC motor first, it is design with 2 embedded nuts on both sides to give a secured attachement to the D shaped DC motor shaft. Once the core is attached you can attach the wheel with a screw going into another embedded nut. The purpose of this integrated module is to be what controls the movement of the tread system for the robot. It functions well so far staying securely attached to the motor while spinning and once we have the chassis laser cut we can do futher testing on reliability of the tread system.
 
-## Team Health Assessment and Peer Feedback *
-finish
-summarize discussions
+## Team Health Assessment and Peer Feedback
 
+### Work Plan Reflection *
+
+### Module Integration Reflection *
