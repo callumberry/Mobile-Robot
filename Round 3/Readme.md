@@ -37,8 +37,7 @@ add battery life
 
 # Mechanical Module
 ![Screenshot](mechanical.jpg)
-finsih 
-talk about
+The mechanical module is the 
 
 # Workshop 7.1 Module Integration
 
