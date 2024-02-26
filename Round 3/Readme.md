@@ -33,6 +33,8 @@ add battery life
 | Wheels | 2.25 in<sup>3</sup>| 15 %|
 | Total | 5.61 in<sup>3</sup>| 37.4 %|
 
+modified from this design https://www.thingiverse.com/thing:430305
+
 # Workshop 6.2 Mechanical Module Assembly
 
 # Mechanical Module
