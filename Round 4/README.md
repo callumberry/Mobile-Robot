@@ -21,6 +21,6 @@ As of right now, we need to finish setting up the controller with the DC motors,
 Overall, we are following the schedule for this project quite well. To ensure we meet the design review goals on time, we schedule our time to ensure all required components are finished and divide up the milestones between ourselves to ensure neither of us is carrying too much of the work. This requires a lot communication and timing between partners, and we have ensured we both understand what is expected of each other. We have budgeted our materials correctly, ensuring that we have some excess material we don't plan on using in case we face a scenario where we need something created urgently. Lastly, we consult each other when required, ensuring both team members are "on the same page" and understand the design going forward. This ensures both of us have the same vision for the design as we test and design our individual components. 
 
 ## Workshop 7.2 Module Integration Reflection 
-
+The wheel integration with the motor went very well. The module performed as expected with the tank treads and we did not encounter problems we were concerned with, such as improper fittings or not meshing with the tank treads properly. For the next iteration, adding more perimeters to the mount between the motor and the wheel would increase the strength of the wheel, ensuring the opposite force from the bolts would not damage the wheels in the long term. 
 
 ## Design for Sustainability
