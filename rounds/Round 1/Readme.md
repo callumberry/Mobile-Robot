@@ -1,4 +1,4 @@
-[Home](../../)
+[Home](../)
 # Design Round 1 Scrum Planning
 ## Specific Goals
 1. Create a detailed and scaled drawing of our inital design. This will provide us with  a better understanding of how to 3D model it. 
