@@ -1,7 +1,7 @@
 # Section002_Group9_AnkyloAutomation
-<p align="center">
-    <img src="images/logo.webp" alt="Screenshot" width="400"/>
-</p>
+
+<img src="images/logo.webp" alt="Screenshot" width="400"/>
+
 
 
 ## Index:
