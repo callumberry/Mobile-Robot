@@ -19,6 +19,6 @@
 - [CAD](design_files/CAD/)
 - [Prototype](prototype)
 
-## Team Members:
+## Team Members
 - Callum
 - Mustafa
