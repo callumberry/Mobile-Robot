@@ -1,4 +1,4 @@
-[Home](../../)
+[Home](main)
 
 # Workshop 8.1 Battery Monitoring and Mode Switching
 

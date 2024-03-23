@@ -1,4 +1,4 @@
-[Home](../../)
+[Home](main)
 # Workshop 6.1 Electical Schematic and Power Budgeting
 
 ## Design Round 3 Scrum Planning
