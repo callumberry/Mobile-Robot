@@ -8,4 +8,4 @@
 <img src="../../images/solidworks/arm.png" alt="Screenshot" width="600"/>
 
 ## Gripper
-To be done
+To be added
