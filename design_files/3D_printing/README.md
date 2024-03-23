@@ -8,7 +8,7 @@
 | Mounts | 1.13 in<sup>3</sup>| 7.5 % |
 | Total | 5.61 in<sup>3</sup>| 44.9 %|
 
-modified from this design https://www.thingiverse.com/thing:430305
+treads and wheels modified from this design: https://www.thingiverse.com/thing:430305.
 
 # Pictures
 ## Wheels
