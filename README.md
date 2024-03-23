@@ -14,6 +14,7 @@
 - [3D Printing](design_files/3D_printing/)
 - [Laser Cutting](design_files/laser_cutting/)
 - [CAD](design_files/CAD/)
+- [Prototype](prototype)
 
 ## Team Members:
 - Callum

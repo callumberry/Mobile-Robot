@@ -12,10 +12,10 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 
 # Pictures
 ## Wheels
-<img src="../../images/3mf/wheels.png" alt="Screenshot" width="400"/>
+<img src="../../images/3mf/wheels.png" alt="Screenshot" width="600"/>
 
 ## Mounts
-<img src="../../images/3mf/mounts.png" alt="Screenshot" width="400"/>
+<img src="../../images/3mf/mounts.png" alt="Screenshot" width="600"/>
 
 ## Treads
-<img src="../../images/3mf/treads.png" alt="Screenshot" width="400"/>
+<img src="../../images/3mf/treads.png" alt="Screenshot" width="600"/>
