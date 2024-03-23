@@ -1,6 +1,6 @@
 # Section002_Group9_AnkyloAutomation
 
-<img src="images/logo.webp" alt="Screenshot" width="400"/>
+<img src="images/logo/logo.webp" alt="Screenshot" width="400"/>
 
 
 
@@ -11,9 +11,9 @@
 - [Round 4](rounds/Round%204/)
 - [Round 5](rounds/Round%205/)
 - [Code](code)
-- [3D Printing Tally]()
-- [Laser Cutting]()
-- [CAD](CAD)
+- [3D Printing Tally](design_files/3D_printing/)
+- [Laser Cutting](design_files/laser_cutting/)
+- [CAD](design_files/CAD/)
 
 ## Team Members:
 - Callum
