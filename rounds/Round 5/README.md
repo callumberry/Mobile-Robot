@@ -23,3 +23,13 @@ From our testing, we determined our design was a good foundation to iterate upon
 - [Laser Cutting](../../design_files/laser_cutting/)
 - [CAD](../../design_files/CAD)
 - [Code](../../code/)
+
+## Workshop 11.1 Prototype Testing
+
+In our group discussion, we acknowledged the feedback about our collective blind spot regarding emphasizing high standards, especially noting the widening gap between our self-assessment and peer ratings from Rounds 3 to 4. We agreed on the necessity to set clearer, measurable standards for our work to align better with the project expectations. Each member committed to seeking constructive feedback on their contributions more regularly to identify specific areas for improvement.Finally, we committed to more transparent communication within the team about our progress and challenges in meeting these standards, aiming for collective improvement and accountability as we approach Week 12's competition goals.
+
+
+
+
+
+
