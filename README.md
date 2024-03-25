@@ -2,7 +2,15 @@
 
 <img src="images/logo/logo.webp" alt="Screenshot" width="400"/>
 
+## Team Members
+- Callum
+- Mustafa
 
+## Overall Strategy
+- Autonomous Mode: Line following 
+- Manual Mode: 
+  1. Rescue Ken (first priority)
+  2. Collect dinosaurs (second priority)
 
 ## Index
 ### Rounds
@@ -18,7 +26,3 @@
 - [Laser Cutting](design_files/laser_cutting/)
 - [CAD](design_files/CAD/)
 - [Prototype](prototype)
-
-## Team Members
-- Callum
-- Mustafa
