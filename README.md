@@ -6,6 +6,9 @@
 - Callum
 - Mustafa
 
+<img src="images/prototype/PXL_20240326_144542719.jpg" alt="Screenshot" width="400"/>
+
+
 ## Overall Strategy
 - Autonomous Mode: Line following 
 - Manual Mode: 
