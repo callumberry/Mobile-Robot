@@ -62,6 +62,7 @@ The mechanical module is a modified wheel and tread system from a thingiverse mo
 ## Integrated Module
 
 <img src="../../images/rounds/3/integration.jpg" alt="Screenshot" width="600"/>
+
 The core of the wheel is removable and is attached to the DC motor first, it is design with 2 embedded nuts on both sides to give a secured attachement to the D shaped DC motor shaft. Once the core is attached you can attach the wheel with a screw going into another embedded nut. The purpose of this integrated module is to be what controls the movement of the tread system for the robot. It functions well so far staying securely attached to the motor while spinning and once we have the chassis laser cut we can do futher testing on reliability of the tread system.
 
 ## Team Health Assessment and Peer Feedback
