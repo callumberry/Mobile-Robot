@@ -9,10 +9,11 @@
 | Idle Wheel Shafts V2 | 0.16 in<sup>3</sup>| 1.07 % |
 | LFM V1 | 0.07 in<sup>3</sup>| 0.47 % |
 | LFM V2 | 0.08 in<sup>3</sup>| 0.53 % |
-| Arm V2 | in<sup>3</sup>| % |
-| Claw | in<sup>3</sup>| % |
+| Arm V2 | 2.84 in<sup>3</sup>| 18.93 % |
+| Claw | 1.39 in<sup>3</sup>| 9.27 % |
 | Idle Claw Pincers V2 | 0.26 in<sup>3</sup>| 1.73 % |
-| Total |  in<sup>3</sup>|  %|
+| TPU Sleeve | 0.59 in<sup>3</sup>| 3.93 % |
+| Total | 12.13 in<sup>3</sup>| 80.87 %|
 
 treads and wheels modified from this design: https://www.thingiverse.com/thing:430305.
 
@@ -43,3 +44,5 @@ To be added
 
 ## Idle Claw Pincers V2
 To be added
+
+## TPU Sleeve
