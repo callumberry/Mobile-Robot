@@ -37,12 +37,13 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 <img src="../../images/3mf/sensorV2.png" alt="Screenshot" width="600"/>
 
 ## Arm V2
-To be added
+<img src="../../images/3mf/armV2.png" alt="Screenshot" width="600"/>
 
 ## Claw
-To be added
+<img src="../../images/3mf/claw.png" alt="Screenshot" width="600"/>
 
 ## Idle Claw Pincers V2
-To be added
+<img src="../../images/3mf/idlePincers.png" alt="Screenshot" width="600"/>
 
 ## TPU Sleeve
+<img src="../../images/3mf/sleeves.png" alt="Screenshot" width="600"/>
