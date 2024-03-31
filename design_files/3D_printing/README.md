@@ -20,7 +20,10 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 ## Treads
 <img src="../../images/3mf/treads.png" alt="Screenshot" width="600"/>
 
-## Line Following Mounts
+## Line Following Mounts V1
+To be added
+
+## Line Following Mounts V2
 To be added
 
 ## Arm V2
