@@ -10,10 +10,10 @@
 # Electrical Wiring/
 <img src="../images/prototype/electrical.jpg" alt="Screenshot" width="600"/>
 
-# Wheels
-<img src="../images/prototype/mechanical.jpg" alt="Screenshot" width="600"/>
+# Arm V1
+To be added
 
-# Arm
+# Arm V2
 To be added
 
 # Gripper
