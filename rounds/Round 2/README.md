@@ -28,7 +28,6 @@ As of right now, we need to start integrating the controller with the DC motors,
 # FRDPARC Table 
 ![Screenshot](../../images/rounds/2/FRDPARC.png)
 
-
 # Ultrasonic Sensor
 
 | Data Point  |Actual distance (cm)  |       Measured distance (cm)         |  Slope        |  R^2    |       
@@ -58,8 +57,7 @@ As of right now, we need to start integrating the controller with the DC motors,
 | 23                   | 95                     |         94            |           |         |
 | 24                   | 100                     |    98                 |           |         |
 
-![Screenshot](../../images/rounds/2/ultrasonicFigure.png)
-
+<img src="../../images/rounds/2/ultrasonicFigure.png" alt="Screenshot" width="600"/>
 
 ## Resources
 - [3D Printing](../../design_files/3D_printing/)

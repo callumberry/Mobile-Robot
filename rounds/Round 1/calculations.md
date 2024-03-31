@@ -15,8 +15,7 @@ We are happy with our ideas
 
 Within the 3d printing community there are many prior arts to tank tread design for small scale robotics. The design of the treads is usually in TPU or made of many linkages of a harder plastic. A shortcoming of the harder plastics is that you must assemble the treads one linkage at a time. Using TPU in our design means we can print the treads in one solid piece, create our own tread pattern to increase friction on the game board.
 
-![Screenshot](../../images/rounds/1/203Robot.jpg)
-
+<img src="../../images/rounds/1/203Robot.jpg" alt="Screenshot" width="600"/>
 # Back of Envelope Calculations: Shoulder Rotation
 
 ## Values
@@ -37,7 +36,7 @@ Within the 3d printing community there are many prior arts to tank tread design 
 $$ F = mg = 0.205*9.81$$
 $$ F = 1.962 N $$
 
-![Screenshot](../../images/rounds/1/calculationDiagram.png)
+<img src="../../images/rounds/1/calculationDiagram.png" alt="Screenshot" width="600"/>
 
 ### Torque Calculation at 15 cm
 $$ \tau = rF  $$
