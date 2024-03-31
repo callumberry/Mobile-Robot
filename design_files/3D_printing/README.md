@@ -3,8 +3,8 @@
 # 3D Printing Tally
 | Part | Volume | Percent |
 |------|--------|---------|
-| Treads (x2) | 3.36 in<sup>3</sup>  | 22.4 % |
 | Wheels | 2.25 in<sup>3</sup>| 15 %|
+| Treads (x2) | 3.36 in<sup>3</sup>  | 22.4 % |
 | Mounts | 1.13 in<sup>3</sup>| 7.5 % |
 | Idle Wheel Shafts V2 | 0.16 in<sup>3</sup>| 1.07 % |
 | LFM V1 | 0.07 in<sup>3</sup>| 0.47 % |
