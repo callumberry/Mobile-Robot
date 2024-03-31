@@ -11,8 +11,8 @@
 | LFM V2 | 0.08 in<sup>3</sup>| 0.53 % |
 | Arm V2 | in<sup>3</sup>| % |
 | Claw | in<sup>3</sup>| % |
-| Claw Pincers V2 | in<sup>3</sup>| % |
-| Total | 5.61 in<sup>3</sup>| 44.9 %|
+| Idle Claw Pincers V2 | 0.26 in<sup>3</sup>| 1.73 % |
+| Total |  in<sup>3</sup>|  %|
 
 treads and wheels modified from this design: https://www.thingiverse.com/thing:430305.
 
@@ -39,4 +39,7 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 To be added
 
 ## Claw
+To be added
+
+## Idle Claw Pincers V2
 To be added
