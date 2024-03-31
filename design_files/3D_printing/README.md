@@ -6,6 +6,7 @@
 | Treads (x2) | 3.36 in<sup>3</sup>  | 22.4 % |
 | Wheels | 2.25 in<sup>3</sup>| 15 %|
 | Mounts | 1.13 in<sup>3</sup>| 7.5 % |
+| Idle Wheel Shafts V2 | in<sup>3</sup>| % |
 | LFM V1 | in<sup>3</sup>| % |
 | LFM V2 | in<sup>3</sup>| % |
 | Arm V2 | in<sup>3</sup>| % |
@@ -23,6 +24,9 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 
 ## Treads
 <img src="../../images/3mf/treads.png" alt="Screenshot" width="600"/>
+
+## Idle Wheel Shafts V2
+To be added
 
 ## Line Following Mounts V1
 To be added
