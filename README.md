@@ -11,9 +11,9 @@
 
 ## Overall Strategy
 - Autonomous Mode: Line following 
-- Manual Mode: 
-  1. Rescue Ken (first priority)
-  2. Collect dinosaurs (second priority)
+- Manual Mode Priority: 
+  1. Rescue Ken
+  2. Collect dinosaurs
 
 ## Index
 ### Rounds
