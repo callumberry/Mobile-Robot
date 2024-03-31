@@ -3,7 +3,7 @@
 # 3D Printing Tally
 | Part | Volume | Percent |
 |------|--------|---------|
-| Treads | 3.36 in<sup>3</sup>  | 22.4 % |
+| Treads (x2) | 3.36 in<sup>3</sup>  | 22.4 % |
 | Wheels | 2.25 in<sup>3</sup>| 15 %|
 | Mounts | 1.13 in<sup>3</sup>| 7.5 % |
 | Total | 5.61 in<sup>3</sup>| 44.9 %|
@@ -19,3 +19,12 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 
 ## Treads
 <img src="../../images/3mf/treads.png" alt="Screenshot" width="600"/>
+
+## Line Following Mounts
+To be added
+
+## Arm V2
+To be added
+
+## Gripper
+To be added

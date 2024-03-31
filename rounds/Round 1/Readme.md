@@ -45,3 +45,9 @@ We learned the scale of our robot and its size relative to the board. We also ga
 
 ### What changes do you propose based on these insights?
 From our cardboard protype, we learned that it may be better to scale down the size of the robot. The square will allow for better mobility when driving in manual mode but as of right now, the clearance of the robot compared to doors is quite low. This would make it more difficult for the robot to exit the gate during autonomous mode. 
+
+## Resources
+- [3D Printing](../../design_files/3D_printing/)
+- [Laser Cutting](../../design_files/laser_cutting/)
+- [CAD](../../design_files/CAD)
+- [Code](../../code/)

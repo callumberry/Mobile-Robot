@@ -13,13 +13,13 @@
 # Wheels
 <img src="../images/prototype/mechanical.jpg" alt="Screenshot" width="600"/>
 
-# Robot
-To be added
-
 # Arm
 To be added
 
 # Gripper
+To be added
+
+# Robot
 To be added
 
 

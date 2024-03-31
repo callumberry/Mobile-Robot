@@ -1,4 +1,6 @@
 [Home](main)
+
+
 # Design Round 2 Scrum Planning Answers 
 
 ### What are the specific goals for this round? Aside from meeting this round’s design review deliverables, what are your own goals?
@@ -58,5 +60,9 @@ As of right now, we need to start integrating the controller with the DC motors,
 
 ![Screenshot](Images/ultrasonicFigure.png)
 
-# 3D Printing
-https://www.thingiverse.com/thing:430305
+
+## Resources
+- [3D Printing](../../design_files/3D_printing/)
+- [Laser Cutting](../../design_files/laser_cutting/)
+- [CAD](../../design_files/CAD)
+- [Code](../../code/)

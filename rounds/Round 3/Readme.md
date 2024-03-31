@@ -47,19 +47,6 @@ Peak: $\frac{10}{7.0768}= 1.41 h $
 
 Therefore the battery will last 1.41 to 24.38 hours.
 
-## 3D printing tally
-![Screenshot](3D/wheelPrint.png)
-![Screenshot](3D/treads.png)
-
-| Part | Volume | Percent |
-|------|--------|---------|
-| Left Tread | 1.68 in<sup>3</sup>  | 11.2 % |
-| Right Tread | 1.68 in<sup>3</sup> | 11.2 % |
-| Wheels | 2.25 in<sup>3</sup>| 15 %|
-| Total | 5.61 in<sup>3</sup>| 37.4 %|
-
-modified from this design https://www.thingiverse.com/thing:430305
-
 # Workshop 6.2 Mechanical Module Assembly
 
 # Mechanical Module
@@ -79,3 +66,10 @@ Our discussion focusing on the low scores for goal progression and healthy fact-
 
 ### Peer Feedback
 Our conversation regarding the lower peer ratings in communication and focus highlighted the importance of establishing more effective communication outside of the workshops. We will actively try to have more discussions around project decisions, which will ensure more clarity in our ideas. For enhancing focus, we will set more specific and achievable goals. As well, the team will attempt at minimizing distractions during work periods to increase productivity.
+
+
+## Resources
+- [3D Printing](../../design_files/3D_printing/)
+- [Laser Cutting](../../design_files/laser_cutting/)
+- [CAD](../../design_files/CAD)
+- [Code](../../code/)

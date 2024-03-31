@@ -28,18 +28,8 @@ The wheel integration with the motor went very well. The module performed as exp
 ## Design for Sustainability
 During this project, we kept in mind many environmental considerations to ensure our robot was designed for sustainability. To limit waste, we used additive manufacturing to create our tank treads, wheels, gripper. 3D printing also allowed us to design these parts very precisely, ensuring their functionality wasn't comprimised either. Another way we reduced the energy consumption of the robot was by using rechargable batteries, which are more energy-efficient than regular batteries. Lastly, to avoid robot abandonment, we made our robot components modular and easily removable, ensuring no components will be wasted during dissassembly. 
 
-## 3D printing tally
-check round 3 for older 3d model images
-
-![Screenshot](3D/mounts.png)
-
-| Part | Volume | Percent |
-|------|--------|---------|
-| Left Tread | 1.68 in<sup>3</sup>  | 11.2 % |
-| Right Tread | 1.68 in<sup>3</sup> | 11.2 % |
-| Wheels | 2.25 in<sup>3</sup>| 15 %|
-| Mounts | 1.13 in<sup>3</sup>| 7.5 % |
-| Total | 5.61 in<sup>3</sup>| 44.9 %|
-
-modified from this design https://www.thingiverse.com/thing:430305
-
+## Resources
+- [3D Printing](../../design_files/3D_printing/)
+- [Laser Cutting](../../design_files/laser_cutting/)
+- [CAD](../../design_files/CAD)
+- [Code](../../code/)
