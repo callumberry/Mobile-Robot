@@ -6,9 +6,9 @@
 | Treads (x2) | 3.36 in<sup>3</sup>  | 22.4 % |
 | Wheels | 2.25 in<sup>3</sup>| 15 %|
 | Mounts | 1.13 in<sup>3</sup>| 7.5 % |
-| Idle Wheel Shafts V2 | in<sup>3</sup>| % |
-| LFM V1 | in<sup>3</sup>| % |
-| LFM V2 | in<sup>3</sup>| % |
+| Idle Wheel Shafts V2 | 0.16 in<sup>3</sup>| 1.07 % |
+| LFM V1 | 0.07 in<sup>3</sup>| 0.47 % |
+| LFM V2 | 0.08 in<sup>3</sup>| 0.53 % |
 | Arm V2 | in<sup>3</sup>| % |
 | Claw | in<sup>3</sup>| % |
 | Claw Pincers V2 | in<sup>3</sup>| % |
@@ -27,10 +27,10 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 <img src="../../images/3mf/treads.png" alt="Screenshot" width="600"/>
 
 ## Idle Wheel Shafts V2
-To be added
+<img src="../../images/3mf/idleShaftV2.png" alt="Screenshot" width="600"/>
 
 ## Line Following Mounts V1
-To be added
+<img src="../../images/3mf/sensorV1.png" alt="Screenshot" width="600"/>
 
 ## Line Following Mounts V2
 To be added
