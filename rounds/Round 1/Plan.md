@@ -42,7 +42,7 @@
 
 
 ### Risk Matrix
-![Screenshot](Images/RiskMatrix.png)
+![Screenshot](../../images/rounds/1/RiskMatrix.png)
 
 
 | Risk              | Response Plan | Name |
