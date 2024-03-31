@@ -33,7 +33,7 @@ treads and wheels modified from this design: https://www.thingiverse.com/thing:4
 <img src="../../images/3mf/sensorV1.png" alt="Screenshot" width="600"/>
 
 ## Line Following Mounts V2
-To be added
+<img src="../../images/3mf/sensorV2.png" alt="Screenshot" width="600"/>
 
 ## Arm V2
 To be added
