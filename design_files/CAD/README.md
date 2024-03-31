@@ -2,13 +2,13 @@
 
 # Assembly Pictures
 ## Arm V1
-<img src="../../images/solidworks/arm.png" alt="Screenshot" width="600"/>
+<img src="../../images/solidworks/armV1.png" alt="Screenshot" width="600"/>
 
 ## Arm V2
-To be added
+<img src="../../images/solidworks/armAssemblyV2.png" alt="Screenshot" width="600"/>
 
-## Gripper
-To be added
+## Claw
+<img src="../../images/solidworks/clawAssembly.png" alt="Screenshot" width="600"/>
 
 ## Robot
-To be added
+<img src="../../images/solidworks/robotAssembly.png" alt="Screenshot" width="600"/>

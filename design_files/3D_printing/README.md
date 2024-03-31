@@ -10,7 +10,8 @@
 | LFM V1 | in<sup>3</sup>| % |
 | LFM V2 | in<sup>3</sup>| % |
 | Arm V2 | in<sup>3</sup>| % |
-| Gripper | in<sup>3</sup>| % |
+| Claw | in<sup>3</sup>| % |
+| Claw Pincers V2 | in<sup>3</sup>| % |
 | Total | 5.61 in<sup>3</sup>| 44.9 %|
 
 treads and wheels modified from this design: https://www.thingiverse.com/thing:430305.
@@ -37,5 +38,5 @@ To be added
 ## Arm V2
 To be added
 
-## Gripper
+## Claw
 To be added
