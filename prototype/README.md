@@ -13,10 +13,7 @@
 # Arm V1
 To be added
 
-# Arm V2
-To be added
-
-# Gripper
+# Arm V2 + Gripper
 To be added
 
 # Robot
